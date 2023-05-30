@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/stories-font-stories.76dc7f8b.chunk.css","mappings":"AAAA","sources":["webpack://mbtingle-ui/./src/styles/fonts.scss"],"sourcesContent":["@font-face {\n  font-family: 'Mbtingle';\n  src: url('../fonts/manrope.ttf') format('truetype')\n}"],"names":[],"sourceRoot":""}
